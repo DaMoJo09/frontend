@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import './bootstrap.min.css';
+
+import PropTypes from 'prop-types'
+
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
